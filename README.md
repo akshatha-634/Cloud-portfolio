@@ -22,7 +22,7 @@ The main focus is on network isolation, secure access control, and hosting a web
 ![VPC](screenshots/IMAGE1.png)
 
 ### EC2 Instance Running
-![EC2](screenshots/IMAGE2.png)
+![EC2](screenshots/Screenshot_13-1-2026_213237_eu-north-1.console.aws.amazon.com.jpeg)
 
 ### Security Group Rules
 ![Security Group](screenshots/IMAGE3.png)

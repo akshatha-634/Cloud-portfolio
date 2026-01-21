@@ -28,7 +28,7 @@ The main focus is on network isolation, secure access control, and hosting a web
 ![Security Group](screenshots/IMAGE3.png)
 
 ### IAM Role Attached
-![IAM](screenshots/IMAGE4.png)
+![IAM](screenshots/Screenshot_13-1-2026_214034_us-east-1.console.aws.amazon.com.jpeg)
 
 ### Apache Web Server Output
 ![Apache](screenshots/IMAGE5.png)

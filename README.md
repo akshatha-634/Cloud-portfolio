@@ -27,14 +27,11 @@ The main focus is on network isolation, secure access control, and hosting a web
 ### EC2 Instance Running
 ![EC2](screenshots/Screenshot_13-1-2026_213237_eu-north-1.console.aws.amazon.com.jpeg)
 
-### Security Group Rules
-![Security Group](screenshots/IMAGE3.png)
-
 ### IAM Role Attached
 ![IAM](screenshots/Screenshot_13-1-2026_214034_us-east-1.console.aws.amazon.com.jpeg)
 
 ### Apache Installation on Amazon Linux (EC2)
-![Apache on Amazon Linux](screenshots/PASTE_THE_EXACT_FILENAME_HERE)
+![Apache on Amazon Linux](screenshots/Screenshot_13-1-2026_222230_eu-north-1.console.aws.amazon.com.jpeg)
 
 ## ✅ Outcome
 - Successfully deployed a secure EC2-based web server.

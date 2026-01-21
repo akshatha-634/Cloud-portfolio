@@ -19,7 +19,7 @@ The main focus is on network isolation, secure access control, and hosting a web
 ## 📸 Project Screenshots
 
 ### VPC and Subnet Configuration
-![VPC](screenshots/IMAGE1.png)
+![VPC](screenshots/Screenshot_13-1-2026_213536_eu-north-1.console.aws.amazon.com.jpeg)
 
 ### EC2 Instance Running
 ![EC2](screenshots/Screenshot_13-1-2026_213237_eu-north-1.console.aws.amazon.com.jpeg)

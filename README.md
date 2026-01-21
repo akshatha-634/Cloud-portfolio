@@ -22,7 +22,7 @@ The main focus is on network isolation, secure access control, and hosting a web
 ![VPC](screenshots/Screenshot_13-1-2026_213536_eu-north-1.console.aws.amazon.com.jpeg)
 
 ### Route Table
-![Subnet](screenshots/SUBNET_IMAGE_NAME.png)
+![Subnet](screenshots/Screenshot_13-1-2026_213411_eu-north-1.console.aws.amazon.com.jpeg)
 
 ### EC2 Instance Running
 ![EC2](screenshots/Screenshot_13-1-2026_213237_eu-north-1.console.aws.amazon.com.jpeg)
@@ -35,10 +35,12 @@ The main focus is on network isolation, secure access control, and hosting a web
 
 ### Apache Web Server Output
 ![Apache](screenshots/IMAGE5.png)
+
 ## ✅ Outcome
 - Successfully deployed a secure EC2-based web server.
 - Implemented AWS best practices for security and access control.
 - Gained hands-on experience with EC2, VPC, IAM, and Linux.
+- 
 ## 👩‍💻 Author
 Akshatha Poojari  
 AWS & Cloud Computing Learner

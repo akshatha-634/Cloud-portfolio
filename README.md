@@ -21,6 +21,9 @@ The main focus is on network isolation, secure access control, and hosting a web
 ### VPC and Subnet Configuration
 ![VPC](screenshots/Screenshot_13-1-2026_213536_eu-north-1.console.aws.amazon.com.jpeg)
 
+### Route Table
+![Subnet](screenshots/SUBNET_IMAGE_NAME.png)
+
 ### EC2 Instance Running
 ![EC2](screenshots/Screenshot_13-1-2026_213237_eu-north-1.console.aws.amazon.com.jpeg)
 
